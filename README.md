@@ -33,7 +33,12 @@ The main goal of this project is to build a Convolutional Neural Network (CNN) t
 The repository contains the following files:
 
 - **`CNN for Image Classification.ipynb`**: This is the main notebook that includes all the code for the project. It covers data preprocessing, model creation, training, and evaluation.
-- **Datasets**: You’ll need a dataset of labeled images of cats and dogs. (Note: The dataset itself is not included here; you’ll need to download it separately from a source like Kaggle.)
+- **Datasets**: You’ll need a dataset of labeled images of cats and dogs. 
+
+### Dataset Links:
+- [Training Dataset](https://1drv.ms/f/s!Ao9XTFVTVxzQishj5OvJuicwiRCTig?e=q5Dmq0)
+- [Validation Dataset](https://1drv.ms/f/s!Ao9XTFVTVxzQishfefHPDAIF6QAinQ?e=3aUUmI)
+- [Test Dataset](https://1drv.ms/f/s!Ao9XTFVTVxzQishgGGre-LdVxyyJqw?e=HSNj70)
 
 ## 4. Results and Insights
 
@@ -49,4 +54,8 @@ After training, the CNN model performs well at distinguishing between cats and d
 - This project was created as part of a personal learning journey and is shared freely for educational purposes.
 
 Special thanks to the many online resources and tutorials that helped deepen my understanding of CNNs and image classification!
+
+## 6. Additional Links
+- The main findings of the code can be found at the post on Medium Link below
+- **Medium Article**: [Your Medium Post Link](https://medium.com/your-profile/your-article)
 
