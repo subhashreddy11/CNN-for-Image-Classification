@@ -57,5 +57,5 @@ Special thanks to the many online resources and tutorials that helped deepen my 
 
 ## 6. Additional Links
 - The main findings of the code can be found at the post on Medium Link below
-- **Medium Article**: [Your Medium Post Link](https://medium.com/your-profile/your-article)
+- **Medium Article**:(https://medium.com/@palagirisubhashreddy789/classifying-cats-and-dogs-with-convolutional-neural-networks-7e5a89421003)
 
